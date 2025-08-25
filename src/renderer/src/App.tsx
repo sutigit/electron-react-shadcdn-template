@@ -5,7 +5,7 @@ function App(): React.JSX.Element {
 
   return (
     <>
-      <p className="tip">
+      <p className="text-green-200">
         Please try pressing <code>F12</code> to open the devTool
       </p>
       <div className="actions">
