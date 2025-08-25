@@ -7,9 +7,9 @@ An Electron application with
 - Tailwindcss
 - Shadcdn
 
-## Recommended IDE Setup
+### Note
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+Access app src alias via `@renderer`
 
 ## Project Setup
 
