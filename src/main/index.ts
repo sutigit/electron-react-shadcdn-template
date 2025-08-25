@@ -35,6 +35,10 @@ function createWindow(): void {
   }
 }
 
+// This line fixes this problem: https://github.com/electron/electron/issues/32760
+// The problem of missing GPU acceleration
+app.disableHardwareAcceleration()
+
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
 // Some APIs can only be used after this event occurs.
