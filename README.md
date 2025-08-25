@@ -1,4 +1,4 @@
-# electron-vite-template
+# electron-react-shadcdn-template
 
 An Electron application with
 
